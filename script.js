@@ -15,6 +15,26 @@ const projects = [
     {
         name: "Weather App",
         link: "https://chaudhary-ruchi.github.io/Weather-App/"
+    },
+    {
+        name: "To To List App",
+        link: "https://chaudhary-ruchi.github.io/Todo-List-App/"
+    },
+    {
+        name: "Age Calculator",
+        link: "https://chaudhary-ruchi.github.io/Age-Calculator/"
+    },
+    {
+        name: "Tip Calculator",
+        link: "https://chaudhary-ruchi.github.io/Tip-Calculator/"
+    },
+    {
+        name: "Calculator App",
+        link: "https://chaudhary-ruchi.github.io/Calculator-App/"
+    },
+    {
+        name: "Tic Tac Toe Game",
+        link: "https://chaudhary-ruchi.github.io/Tic-Tac-Toe-Game/"
     }
 ];
 
